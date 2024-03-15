@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: rgb(39, 39, 180);
+    background-image: url(../assets/images/fondo.svg);
+    background-repeat: no-repeat;
+}
+.header{
+    border-bottom: 1px solid white;
+}
+.title{
+    color: white;
+    font-weight: 400;
+}
+.img_head{
+    width: 100px;
+}
+
+
+
+.title{
+    color: white;
+    font-weight: 400;
+}
+.text{
+    color: white;
+    font-weight: 400;
+    font-size: 1.1rem;
+}
+.boton{
+    color: rgb(184, 58, 58);
+    height: 50px;
+    font-weight: 700;
+    border: 2px solid rgb(184, 58, 58);
+    background-color: transparent;
+    border-radius: 5px;
+}
+
+.boton:hover{
+    background-color: rgb(184, 58, 58);
+    color: #fff;
+}
+
+.txt{
+    color: white;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.article__footer{
+    border-bottom: 1px solid white;
+}
